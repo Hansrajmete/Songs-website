@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Handlee);
+.logo img{
+  float: left;
+  width: 20%;
+  height: 10%;
+	margin: 20px 0px 5px 20px;
+
+}
+
+.main{
+	/*background-color: red;*/
+	margin:0 100px 5px 100px;
+}
+
+.left {
+    display: inline-block;
+    float: left;
+    width: 200px;
+    /*margin-left: 100px;
+    background-color: green;*/
+    height: 600px;
+
+}
+
+.left ul,li{
+    text-decoration: none;
+    float: left;
+}
+
+
+.title {
+	font-size:15px;
+	text-shadow:1px 1px 0px rgba(0, 0, 0, .5);
+	color:#fff;
+	font-weight:bold;
+	display:inline-block;
+	text-indent:10px;
+	width: 700px;
+}
+.manu-albums-title1 {
+	height:45px;
+	line-height:40px;
+	font-family: 'Maven Pro', Helvetica, Arial, sans-serif;
+	color:#fff;
+	font-size:16px;
+	display:inline-block;
+	font-weight:bold;
+}
+
+.rightside {
+	text-align: right;
+	margin:-40px 5px 0 0;
+}
+
+
+.contentss{
+	width: 700px;
+	margin-left: 210px;
+}
+.blue {
+	background:#ff123f;
+}
+
+.maincontain{
+
+	/*background-color: red;*/
+	display: inline-block;
+	height: 400px;
+	/*margin-left: 26.7%;*/
+}
+.addition{
+	/*background-color: blue;*/
+	width: 16.8%;
+	display: inline-block;
+	height: 400px;
+}
+
+
+
